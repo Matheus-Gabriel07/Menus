@@ -54,7 +54,7 @@
     margin: 0;
     padding: 80px 0;
     list-style: none;
-    background-color: #d3d3d390;
+    background-color: #A62B1F;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
     transition-duration: .25s;
   }
@@ -63,7 +63,7 @@
     padding: 12px 24px;
     width: 150px;
     height: 20px;
-    color: #000000;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 600;
